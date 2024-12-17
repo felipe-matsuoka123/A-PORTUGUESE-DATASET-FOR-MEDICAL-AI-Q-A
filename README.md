@@ -1,6 +1,4 @@
-Here is the **README** text for your GitHub repository:
 
----
 
 # 📚 **Portuguese Medical Knowledge Dataset and Question Classifier**  
 
